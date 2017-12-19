@@ -7,7 +7,7 @@ The intent of this material collection is to provide interesting enough dataset 
  - Games
 
 ## Current raw data here
-https://docs.google.com/spreadsheets/d/1z_xhSalYbIBXuQLS2vL41nhKtSXk9FQ97d1-43D1s5E/edit#gid=1243347354
+https://docs.google.com/spreadsheets/d/1z_xhSalYbIBXuQLS2vL41nhKtSXk9FQ97d1-43D1s5E/edit?usp=sharing
 
 ## Instructions and scripts to load this information to Neo4J database
 [tbd]
