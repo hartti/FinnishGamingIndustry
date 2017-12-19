@@ -12,7 +12,7 @@ https://docs.google.com/spreadsheets/d/1z_xhSalYbIBXuQLS2vL41nhKtSXk9FQ97d1-43D1
 
 Instructions and scripts to load this information to Neo4J database
 
-<tbd>
+[tbd]
 
 Sources
 
